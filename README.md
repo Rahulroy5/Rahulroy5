@@ -36,13 +36,6 @@ I design end-to-end AI systems — from custom transformer architectures and mul
 
 ---
 
-## GitHub Stats
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahulroy5&show_icons=true&hide_border=true&theme=default&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulroy5&layout=compact&hide_border=true&theme=default)
-
----
-
 ## Contact
 
 **Email:** rroy3736@gmail.com
